@@ -13,4 +13,7 @@
 
 <hr />
 
+<br />
+<br />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidetagini1011&show_icons=true&locale=en" alt="davidetagini1011" /></p>

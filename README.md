@@ -1,4 +1,4 @@
-<<h1 align="start">Ciao, sono Davide Tagini</h1>
+<h1 align="start">Ciao, sono Davide Tagini</h1>
 <br />
 <a href="https://github.com/davidetagini1011?tab=repositories&q=&type=public&language=&sort=">Guarda i miei progetti</a>
 <br />

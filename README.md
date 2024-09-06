@@ -1,3 +1,7 @@
+<div>
+  <img src="https://media.tenor.com/5TBuf1JrXBAAAAAM/thanos-arrival.gif" alt="Immagine header" />
+</div>
+
 <h1 align="start">Ciao, sono Davide Tagini</h1>
 <p align="start">Sono un appassionato di sviluppo, per lo più applicazioni, sia interpretate che compilate che ricoprono il ramo full-stack</p>
 

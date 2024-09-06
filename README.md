@@ -1,9 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo21054
-Fork on GitHub6533
-<h1 align="center">Ciao, sono Davide Tagini</h1>
-<h3 align="center">Sono un appassionato di sviluppo, per lo più applicazioni, sia interpretate che compilate che ricoprono il ramo full-stack</h3>
+<h1 align="start">Ciao, sono Davide Tagini</h1>
+<p align="start">Sono un appassionato di sviluppo, per lo più applicazioni, sia interpretate che compilate che ricoprono il ramo full-stack</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidetagini1011&label=Profile%20views&color=0e75b6&style=flat" alt="davidetagini1011" /> </p>
 

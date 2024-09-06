@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
  <img src="" alt="Immagine header" />
 </div>
  <div>

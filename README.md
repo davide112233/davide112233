@@ -17,3 +17,13 @@
 <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidetagini1011&show_icons=true&locale=en" alt="davidetagini1011" /></p>
+
+<br />
+<br />
+
+<hr />
+
+<br />
+<br />
+
+<p align="left">I progetti che arriveranno, al momento non verranno pubblicati da nessuna parte, ma, essendo tutti pubblici, potrete sfogliare il lavoro svolto, compreso di documentazione, immagini dimostrative e tecnologie utilizzate. Tutto ciò che serve a uno sviluppatore per fare un vero portfolio full-stack.</p>

@@ -1,3 +1,1 @@
-<script src="https://cdn.tailwindcss.com"></script>
-
-<h1>Ciao</h1>
+<h1 class="bg-red-500 w-full">Ciao</h1>

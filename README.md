@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building web 
 
 ## Linguaggi più usati
 
-- **JavaScript** –
-- **PHP** –
-- **Bootstrap** –
-- **Tailwind CSS** –
-- **React.js** –
-- **MySQL** –
+- **JavaScript**
+- **PHP**
+- **Bootstrap**
+- **Tailwind CSS**
+- **React.js**
+- **MySQL**
 
 ## Puoi trovarmi qui
 

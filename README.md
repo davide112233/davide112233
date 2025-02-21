@@ -1,6 +1,6 @@
 # Buongiorno, mi chiamo Davide Tagini
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building web applications and exploring new technologies.
+Sviluppo contenuti web, sono attualmente alla ricerca di una posizione inerente a questo ambito
 
 ## Linguaggi più usati
 

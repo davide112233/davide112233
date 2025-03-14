@@ -1,6 +1,6 @@
 # Buongiorno, sono Davide Tagini
 
-Sono uno **sviluppatore fullstack** e realizzo applicativi web e mobile
+Sono uno sviluppatore fullstack con inclinazione maggiore al frontend, realizzo applicativi web e mobile
 
 ## 🚀 Competenze
 
@@ -13,10 +13,6 @@ Sono uno **sviluppatore fullstack** e realizzo applicativi web e mobile
 ### 🛠️ Backend  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)    
 
-## 🚀 Projects  
-- **[Portfolio Website](#)** – Built with Next.js, Tailwind, and MongoDB  
-- **[Flutter Notes App](#)** – Local note-taking with Flutter
-
-## 📫 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)  
+## 📫 Per maggiori informazioni
+[![Portfolio](https://www.davidetagini.vercel.app)](#)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  

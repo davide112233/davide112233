@@ -1,6 +1,6 @@
-### Bio
+### Biografia
 
-Hello! I'm [Your Name], a web and mobile developer passionate about building applications using modern technologies. I'm always exploring new ideas and improving my projects. Feel free to check out my repositories and reach out if you have any questions or collaboration ideas!
+Buongiorno, sono Davide Tagini, realizzo siti web e applicazioni. Il mio stack principale da developer, comprende tecnologie quali: NextJS, ReactJS, Tailwind CSS, Flutter
 
 ### Competenze
 

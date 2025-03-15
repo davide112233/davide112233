@@ -1,3 +1,7 @@
+### Bio
+
+Hello! I'm [Your Name], a web and mobile developer passionate about building applications using modern technologies. I'm always exploring new ideas and improving my projects. Feel free to check out my repositories and reach out if you have any questions or collaboration ideas!
+
 ### Competenze
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)

@@ -1,4 +1,4 @@
-# Mi chiamo Davide Tagini
+# Davide Tagini
 
 Benvenuti nel mio profilo GitHub, dove potrete guardare il codice sorgente degli esercizi svolti
 

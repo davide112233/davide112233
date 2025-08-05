@@ -18,12 +18,6 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davide112233&theme=radical)
-
----
-
 ## 📫 Contact Me
 
 - Twitter: [@yourtwitter](https://twitter.com/yourtwitter)

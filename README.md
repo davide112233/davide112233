@@ -1,38 +1,15 @@
-# Hi there, I'm [Your Name] 👋
+Mi chiamo Davide Tagini
 
-Welcome to my GitHub profile!
+Benvenuti nel mio profilo GitHub, dove potrete guardare il codice sorgente degli esercizi svolti
 
 ---
 
-## 📊 GitHub Stats
+## Statistiche
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davide112233&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davide112233&layout=compact&theme=radical)
 
----
-
-## 🔥 GitHub Profile Summary
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davide112233)
 
----
-
-## 📫 Contact Me
-
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
-- Email: your.email@example.com
-
----
-
-## 📄 Preview of My README
-
-<!-- You can embed a snippet of your README here manually or use GitHub's include feature if available -->
-
-> This space is for a quick preview of your main README content or project description.
-
----
-
-*Thanks for visiting!*
 

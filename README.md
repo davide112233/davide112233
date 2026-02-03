@@ -1,6 +1,6 @@
 <h1>Front-end developer</h1>
 
-<p>Mi chiamo Davide Tagini e sono un front-end developer</p>
+<p style="color: red;">Mi chiamo Davide Tagini e sono un front-end developer</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
